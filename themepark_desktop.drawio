@@ -1,0 +1,190 @@
+<mxfile host="app.diagrams.net" modified="2021-05-26T07:18:22.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="kg5i5VwnuNIeHX2PYR3x" version="14.7.1" type="github">
+  <diagram id="Tz94heCCpqs6r6Kg0a_S" name="Page-1">
+    <mxGraphModel dx="1809" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-18" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="639" y="583" width="530" height="567" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="16" y="583" width="530" height="567" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-59" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;opacity=20;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="200" y="44" width="530" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-64" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;opacity=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="480" y="90" width="220" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-3" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="200" y="44" width="530" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-8" value="HOME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-10" value="Page 2 ATTRACTION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="16" y="550" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-12" value="Video or Image-slider" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="211" y="124" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-16" value="image&lt;br&gt;link to attractions" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="277.5" width="170" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-21" value="image&lt;br&gt;link to infos" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="386" y="277.5" width="160" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-15" value="&lt;div&gt;Logo&lt;/div&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="210" y="50" width="50" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-29" value="" style="shape=or;whiteSpace=wrap;html=1;gradientColor=none;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="650" y="84" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-30" value="xy theme park" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="57" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-32" value="special offers / news" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="280" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-33" value="contact &amp;nbsp;/ address &amp;nbsp;/ map" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="380" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-38" value="image-gallery / videos Ride 1" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="26" y="695" width="324" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-45" value="Ride 1&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="26" y="660" width="324" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-57" value="special offers" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="662" width="320" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-72" value="buy ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;opacity=20;" parent="1" vertex="1">
+          <mxGeometry x="670" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-75" value="image-gallery / videos Ride 2" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="26" y="858" width="324" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-76" value="Ride 2" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="26" y="820" width="324" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-77" value="image&lt;br&gt;link to infos" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" parent="1" vertex="1">
+          <mxGeometry x="367" y="700" width="163" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b5tYH_EXLa9vp5NdrSGa-78" value="Events and food" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="367" y="660" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-1" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1" target="B6GSU3dyEdFZcRYnS-DD-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="101.81818181818176" as="sourcePoint" />
+            <mxPoint x="960" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="100" />
+              <mxPoint x="890" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.map;labelBackgroundColor=none;gradientColor=none;opacity=20;" parent="1" vertex="1">
+          <mxGeometry x="649" y="937" width="321" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-6" value="" style="curved=1;endArrow=classic;html=1;strokeWidth=1;entryX=0.002;entryY=0.693;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="B6GSU3dyEdFZcRYnS-DD-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="400" as="sourcePoint" />
+            <mxPoint x="615" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="520" />
+              <mxPoint x="575" y="610" />
+              <mxPoint x="595" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-9" value="address &amp;amp; map" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="897" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-10" value="opening hours" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="757" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-11" value="Ticket option 1 single enty" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="990" y="707" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-12" value="Ticket option 2 group entry" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="990" y="800" width="160" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="ioKyxTYpM8XxDTt9hKgP-13" value="security &amp;amp; behaviour rules" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="650" y="817" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-1" value="menu: tickets, open, map, xxx" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="52" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;opacity=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="16" y="583" width="530" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-8" value="&lt;div&gt;Logo&lt;/div&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="26" y="589" width="50" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-9" value="" style="shape=or;whiteSpace=wrap;html=1;gradientColor=none;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="466" y="623" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-10" value="xy theme park" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="121" y="596" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-11" value="special offers / news" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="367" y="940" width="163.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-12" value="contact &amp;nbsp;/ address &amp;nbsp;/ map" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="26" y="1120" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-13" value="buy ticket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="486" y="629" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-14" value="menu: tickets, open, map, xxx" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="296" y="591" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-15" value="image&lt;br&gt;link to infos" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="367" y="820" width="163" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-16" value="image-gallery / videos Ride 3" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="26" y="1008" width="324" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-17" value="Ride 3" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="26" y="970" width="324" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-19" value="Page 3 INFORMATIONS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="639" y="550" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-25" value="Buy your ticket" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="660" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-26" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;opacity=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="639" y="583" width="530" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-27" value="&lt;div&gt;Logo&lt;/div&gt;" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="649" y="589" width="50" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-29" value="xy theme park" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="744" y="596" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-31" value="contact &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="649" y="1120" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-33" value="menu: tickets, open, map, xxx" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="919" y="591" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-38" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="b5tYH_EXLa9vp5NdrSGa-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="779" y="616" as="sourcePoint" />
+            <mxPoint x="829" y="566" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-39" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="B6GSU3dyEdFZcRYnS-DD-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="305.00117290192105" y="344" as="sourcePoint" />
+            <mxPoint x="607.44" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6GSU3dyEdFZcRYnS-DD-40" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;opacity=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="44" width="530" height="46" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
