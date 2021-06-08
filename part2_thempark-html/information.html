@@ -9,18 +9,19 @@
 <body>
     <header>
         <div>
-             <!--Felix: container for logo-->
+             <!--Felix: container for logo. link back to homepage-->
             <a href="index.html"><img src="assets/logo.png"></a>
 
         </div>
-         <!--Felix: Title, we have to find a good name for our themepark-->
+         
         <h1>The Fantastic Ride World</h1>
         <nav>
-            <ol>
-                <li>Tickets</li>
-                <li>Opening hours</li>
-                <li>How to get here</li>
-                <li>Attractions</li>
+              <!--Felix: these li should be links direct to the item..-->
+              <ol>
+                <li><a href="information.html">Tickets</a></li>
+                <li><a href="information.html">Opening hours</a></li>
+                <li><a href="information.html">How to get here</a></li>
+                <li><a href="attractions.html">Attractions</a></li>
             </ol>
         </nav>
     </header>
@@ -77,15 +78,35 @@
     </section>
 
       <aside>
+          <!--Felix: ticket information and order form. -->
           <h2>Buy your ticket: single entry.</h2>
           <p>here is the ticket shop. One click and you can buy your ticket for one day at Fantastic Ride World.</p> 
+          <form>
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname"><br><br>
+            <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="lname"><br><br>
+            <label for="cntry">Country:</label>
+            <input type="text" id="cntry" name="cntry"><br><br>
+            <label for="ticketn">Number of tickets:</label>
+            <input type="number" id="ticketn" name="ticketn"><br><br>
+            <input type="submit" value="Buy ticket">
+          </form>
           <h2>Buy your ticket: group entry.</h2>
           <p>
               For groups we offer special prices. The group leader gets a free entry. Minimum members of the group: 8 persons. Follow this link to get a group ticket.
           </p>
-
-          
-
+          <form>
+            <label for="gname">Group name:</label>
+            <input type="text" id="gname" name="gname"><br><br>
+            <label for="leadfirstname">First name leader:</label>
+            <input type="text" id="leadfirstname" name="leadfirstname"><br><br>
+            <label for="leadlastname">Last name leader:</label>
+            <input type="text" id="leadlastname" name="leadlastname"><br><br>
+            <label for="membern">Number of persons:</label>
+            <input type="number" id="membern" name="membern"><br><br>
+            <input type="submit" value="Buy group tickets">
+          </form>
       </aside>
 
     </main>
